@@ -2,7 +2,7 @@
 
 <img src="https://pbs.twimg.com/media/Ev_WHN1XcAE4zV3?format=png&name=small" width="30%">
 
-## Introduction
+<details><summary>Introduction</summary>
 
 Programming is the act of constructing a program—a set of precise instructions telling a computer what to do. 
 
@@ -12,4 +12,9 @@ JavaScript was introduced in 1995 as a way to add programs to web pages in the N
 #### Code, and what to do with it
 Code is the text that makes up programs. 
 
-## Values, Types, and Operators
+</details>
+
+<details><summary>Values, Types, and Operators</summary>
+
+
+</details>
