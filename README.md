@@ -16,7 +16,11 @@ Code is the text that makes up programs.
 
 <details><summary>Values, Types, and Operators</summary>
   <strong>Values</strong>
+  
   To be able to work with large quantities of bits (binary) without getting lost, we must separate them into chunks that represent pieces of information. In a JavaScript environment, those chunks are called values. Though all values are made of bits, they play different roles. Every value has a type that determines its role. Some values are numbers, some values are pieces of text, some values are functions, and so on. To create a value, you must merely invoke its name.
+
+<strong>Numbers</strong>
+
 
 </details>
 
