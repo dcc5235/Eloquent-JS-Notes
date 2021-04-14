@@ -21,6 +21,7 @@ Code is the text that makes up programs.
 
 <strong>Numbers</strong>
 
+Values of the number type are, unsurprisingly, numeric values.
 
 </details>
 
